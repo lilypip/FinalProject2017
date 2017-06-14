@@ -1,2 +1,3 @@
-# FinalProject2017
-Hi!
+# Java Assignment #10: Conway's Game of Life
+
+Your name: Sarah Meilinger 
